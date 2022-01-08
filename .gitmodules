@@ -1,15 +1,15 @@
 [submodule "deps/Dependencies"]
 	path = deps/Dependencies
-	url = https://github.com/NullPopPo/Play-Dependencies.git
+	url = https://github.com/NullPopPoLab/Play-Dependencies.git
 [submodule "deps/Framework"]
 	path = deps/Framework
-	url = https://github.com/NullPopPo/Play--Framework.git
+	url = https://github.com/NullPopPoLab/Play--Framework.git
 [submodule "deps/CodeGen"]
 	path = deps/CodeGen
-	url = https://github.com/NullPopPo/Play--CodeGen.git
+	url = https://github.com/NullPopPoLab/Play--CodeGen.git
 [submodule "deps/Nuanceur"]
 	path = deps/Nuanceur
-	url = https://github.com/NullPopPo/Nuanceur.git
+	url = https://github.com/NullPopPoLab/Nuanceur.git
 [submodule "deps/libchdr"]
 	path = deps/libchdr
-	url = https://github.com/NullPopPo/libchdr.git
+	url = https://github.com/NullPopPoLab/libchdr.git
